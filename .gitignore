@@ -1,0 +1,11 @@
+node_modules/
+dist/
+serverless/
+
+.env
+
+*.log
+
+coverage/
+
+.DS_Store
